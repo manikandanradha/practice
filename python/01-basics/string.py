@@ -23,5 +23,19 @@ print(name[8])
 for name in "manikandan" :
     print(name)
 
+given = "i am studying python language"
+print("python" in given)
+
+
+given = "i am studying python language"
+print("name" in given)
+
+
+given = "i am studying python language"
+if "am" in given :
+    print("yes , 'am' is present ")
+
+
+
 
 
