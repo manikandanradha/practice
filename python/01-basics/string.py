@@ -36,6 +36,5 @@ if "am" in given :
     print("yes , 'am' is present ")
 
 
-
-
+:
 
