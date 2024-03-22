@@ -1,10 +1,10 @@
 #include <stdio.h>
 
 int main(){
+  float length = 9.265 ;
+  float width = 8.678 ;
+  float area = length * width ;
+  printf("the area of rectangle is %f",area);
 
-  int length = 10;
-  int breadth = 20;
-  int area = length * breadth;
-  printf("area of rectangle is  %d", area);
   return 0;
 }
